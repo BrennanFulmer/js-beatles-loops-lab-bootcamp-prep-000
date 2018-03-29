@@ -15,6 +15,7 @@ function johnLennonFacts(array) {
   var count = 0;
   while (count < array.length) {
     
+    count++
   }
 }
 
