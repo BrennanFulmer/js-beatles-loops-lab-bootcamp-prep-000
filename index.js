@@ -18,6 +18,7 @@ function johnLennonFacts(array) {
     facty.push(text);
     count++
   }
+  return facty;
 }
 
 function iLoveTheBeatles() {
